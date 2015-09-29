@@ -14,7 +14,7 @@
     "color"
   ],
   "license": "MIT",
-  "homepage": "firedev.com/material-palette",
+  "homepage": "https://github.com/firedev/material-palette",
   "ignore": [
     "**/.*",
     "node_modules",
