@@ -1,0 +1,25 @@
+{
+  "name": "material-colors",
+  "version": "0.0.0",
+  "authors": [
+    "Nick Ostrovsky <nick@firedev.com>"
+  ],
+  "description": "Material Design based colors",
+  "main": "material-colors.sass",
+  "moduleType": [],
+  "keywords": [
+    "css",
+    "sass",
+    "material",
+    "color"
+  ],
+  "license": "MIT",
+  "homepage": "firedev.com/material-colors",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
